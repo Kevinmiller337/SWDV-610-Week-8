@@ -1,0 +1,2 @@
+# SWDV-610-Week-8
+You must develop an algorithm and/or data structure and implement it to solve a problem of your choosing. For example, you may want to address the classic Knight's Tour (Links to an external site.) problem by implementing a graph utilizing a depth first search algorithm. In your program, you must also provide a test case for the algorithm. This is a fairly open-ended challenge but should showcase the skills and knowledge you have acquired over your coursework so far. 
